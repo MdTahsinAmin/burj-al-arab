@@ -1,0 +1,11 @@
+.login-section{
+    text-align: center;
+}
+.login-section Button{
+    padding: 8px 50px; 
+    text-align: center;
+    font-size: 17px;
+}
+.google-btn{
+    margin-right:6px;
+}
